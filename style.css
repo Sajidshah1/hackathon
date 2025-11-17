@@ -1,0 +1,100 @@
+header{
+    /* border: 2px solid black; */
+    width: 1200px;
+    margin: 0px auto;
+}
+.nav{
+    /* border: 2px solid red; */
+    margin: 0px 0px 0px 130px;
+    gap: 45px;
+    cursor: pointer;
+}
+.nav>p{
+    margin-left: 20px;
+}
+.nav>button{
+    height:30px ;
+    width: 120px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+}
+.nav>li :hover{
+    color: blue;
+}
+.main{
+    /* border: 2px solid black; */
+}
+.right{
+    /* border: 2px solid green; */
+    margin:0px 0px 0px 0px ;
+    width: 800px;
+ overflow-x: hidden;
+}
+.right>img{
+    width: 1000px;
+    margin: 0px 0px 0px 0px;
+}
+.left{
+    /* border: 2px solid red; */
+    text-align: center;
+    margin: 0px 0px 0px 10px;
+    width: 600px;
+
+}
+.left>h1{
+    /* border: 2px solid yellow; */
+    margin: 200px auto;
+    font-size: xx-large;
+}
+.left>h1>p{
+    color: #1572D3;
+    font-size: 50px;
+}
+.bar{
+    border: 2px solid #1572D3;
+    width: 1200px;
+    margin: 0px auto; 
+    gap: 50px; 
+}
+.location{
+    /* border: 2px solid black; */
+}
+.search{
+    border: none
+    margin: 5px 50px 0px 0px  
+
+}
+
+    .pick>div{
+        border: 2px solid blue;
+    }
+    .bar>button{
+        background-color: #007bff;
+        color: white;
+        width: 100px;
+        border-radius: 10px;
+    }
+    .page2{
+        border: 2px solid black;
+        margin-top: 50px;
+    }
+    .head{
+        /* border: 2px solid black; */
+        width: 500px;
+        margin: 2px auto;
+    }
+    .how>div{
+        /* border: 2px solid black; */
+        width: 250px;
+        margin: 10px auto;
+        color: #007bff;
+        background-color: #1571d334;
+        text-align: center;
+        border-radius: 10px;
+    }
+    .how>p{
+        text-align: center;
+        font-size: 30px;
+        font-weight: 900;
+    }
